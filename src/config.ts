@@ -1,5 +1,5 @@
 export const siteConfig = {
-  name: 'CryptoWetten.nl', url: 'https://www.cryptowetten.nl', description: 'Informatie over crypto wetten', language: 'nl', logo: '',
+  name: 'CryptoWetten.nl', url: 'https://www.cryptowetten.nl', description: 'Informatie over crypto wetten', language: 'nl', logo: 'https://www.cryptowetten.nl/wp-content/uploads/2018/05/CryptoWetten.nl_.png',
   colors: { primary: '#2563eb', secondary: '#1e40af', accent: '#f59e0b', background: '#ffffff', text: '#1f2937' },
   fonts: { heading: 'Inter, system-ui, sans-serif', body: 'Inter, system-ui, sans-serif' },
   defaultOgImage: '/images/og-default.jpg', author: 'Floris',
